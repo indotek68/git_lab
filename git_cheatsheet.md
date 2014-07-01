@@ -20,3 +20,6 @@
    status     Show the working tree status
    tag        Create, list, delete or verify a tag object signed with GPG
 
+
+Angga is cool
+Angga is awesome
